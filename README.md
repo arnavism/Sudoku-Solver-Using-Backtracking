@@ -1,5 +1,5 @@
 # Sudoku-Solver-Using-Backtracking
-#### You can play this game on [Triket](https://trinket.io/features/pygame)
+#### You can play this game on [Triket](https://trinket.io/features/pygame) by running the GUI.py file from above.
 #### Press Space Bar to let the computer start solving the Sudoku using the Backtracking Algorithm
 #### The process of solving looks like the following:
 
